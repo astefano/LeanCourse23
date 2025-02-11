@@ -10,6 +10,14 @@
     "inputRev?": "v4.2.0",
     "inherited": false}},
   {"git":
+   {"url": "https://github.com/PatrickMassot/checkdecls.git",
+    "subDir?": null,
+    "rev": "75d7aea6c81efeb68701164edaaa9116f06b91ba",
+    "opts": {},
+    "name": "checkdecls",
+    "inputRev?": null,
+    "inherited": false}},
+  {"git":
    {"url": "https://github.com/leanprover-community/quote4",
     "subDir?": null,
     "rev": "a387c0eb611857e2460cf97a8e861c944286e6b2",
